@@ -3,7 +3,7 @@ Table of content
 - [Set up](#setup)
 - [Installation](#installation)
     - [Frontend](#frontend)
-    - [Backend](#backkend)
+    - [Backend](#backend)
 
 ## Set Up
 To set up this template, you will need to clone this project 
