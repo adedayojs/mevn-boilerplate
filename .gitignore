@@ -25,9 +25,11 @@ dev.ts
 data/
 
 codealike.json
-.DS_Store
-node_modules
-/dist
+
+
+#npm or yarn related files
+yarn.lock
+package-lock.json
 
 
 
