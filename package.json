@@ -6,7 +6,7 @@
     "start": "node ./bin/www",
     "dev": "nodemon ./bin/www",
     "test": "jest --forceExit",
-    "client:build": "cd client; yarn build"
+    "build": "cd client; yarn build"
   },
   "dependencies": {
     "@hapi/joi": "^16.1.7",
