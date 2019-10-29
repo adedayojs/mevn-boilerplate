@@ -1,4 +1,6 @@
 # Vue-Fullstack-Boilerplate
+[![CircleCI](https://circleci.com/gh/adedayojs/vue-boilerplate.svg?style=svg)](https://circleci.com/gh/adedayojs/vue-boilerplate)
+
 Table of content
 - [Set up](#setup)
 - [Installation](#installation)
