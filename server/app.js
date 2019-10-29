@@ -49,7 +49,7 @@ app.use(cookieParser());
 /* Api routing */
 app.use('/api/v1', apiVersionOne);
 
-const clientDirectory = path.join(__dirname, '../frontend/dist/');
+const clientDirectory = path.join(__dirname, '../client/dist/');
 
 //  Forward All Routes By Default to Vue Build if In Production Mode and vue build exist
 if (fs.existsSync(clientDirectory) && env == 'PRODUCTION') {

@@ -5,7 +5,8 @@
   "scripts": {
     "start": "node ./bin/www",
     "dev": "nodemon ./bin/www",
-    "test": "jest --forceExit"
+    "test": "jest --forceExit",
+    "build": "cd client; yarn build"
   },
   "dependencies": {
     "@hapi/joi": "^16.1.7",
